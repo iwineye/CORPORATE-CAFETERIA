@@ -18,20 +18,54 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
    * QUARETERLY BALANCE STATEMENT (P/L) ANALYSIS
 6. REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
 
+
+## 1.PYTHON SCRIPT TO GENERATE SALES DATA
+A Clean code that can generate any number of rows of data between any given period of time is used to create the sales data for this project.
+Here we used this to generate three months of sales data.A Randomised data gives unpredictable results and room for different interpretations analysed everytime.
+
+## 2. DATABASE Design in MYSQL
+
+The project  database is built according to the back end system ready for deployment. The entire database is built according to the following ER DIAGRAM
+
 ![EER Diagram](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/37441353-47a4-4919-952d-097da5a9b9af)
 
+## 3.SQL QUERIES and analysis of data in DATABASE.
 
-  
+The data is then uploaded to the Database
+
+Various queries are done in MYSQL such as Joining different tables and Merging
+
+## 4.Python AUTOMATION script to access and QUERY MYSQL DATABASE
+
+Going a step further to make regular monitoring of data without hastle and to obtain basic performance metrics. A simple code in python is written to access the database and perform queries automatically with just one click.
+
+## 5.POWER BI DASHBOARD
+
+Once the data is imported to POWER BI DASHBOARD from the database. A comprehensive analysis of the data is done through which we are able to study the following
+
+### SALES OVERVIEW 
+
+A complete outline picturing of the entire sales  obtained from orders data.
 ![Sales OverviewJPG](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/4e87b05e-9b36-478c-b5ba-ccb2ba4f63ce)
 
-
+### SALES ANALYSIS
+Identification of ideal products that are best performing.Classification of sales and finding the ideal preferences based on gender.
 ![Sales Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/cea4aca0-7125-43e6-ac56-9c5e60ce7c22)
 
-
+### INVENTORY ANALYSIS
+Using stock data from database an estimation in the cost of procurement of each product in the inventory is done. Therefore we can monitor the cost of procurement at any point of time accessing the database.
 ![Inventory Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c1766210-ea7f-404a-9c12-c27e67f79fb0)
 
+### BALANCE STATEMENT
 
+From the data we calculate the total sales and the procurement cost during that quarter and other expenses in the form of salaries to calculate final profit from the money the company owes which is refunded to the restaurent owner. 
 ![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/f0feb981-e795-4a95-b1ff-f277cbd1a63e)
 
+### FINAL REPORT AND RECOMMENDATIONS
+
+## 6.REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
+
+The company agreed to pay upto a certain limit . It has to calculates the individual spending of each employee. An Excel report is buillt from tteh data to identofy those who have spent beyond the company limit.This is done using PIVOT TABLES and employees who are overdue are highlighted in the report.
    
 
+.
