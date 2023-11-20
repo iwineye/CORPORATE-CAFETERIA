@@ -1,0 +1,15 @@
+item_id,item_name,item_size,item_price
+1,coke,S,30
+2,pepsi,S,30
+3,thumbsup,S,30
+4,Burger_s,S,150
+5,Burger_m,M,225
+6,Burger_l,L,250
+7,Pizza_s,S,150
+8,Pizza_m,M,250
+9,Pizza_l,L,300
+10,Chocolate_cake,M,150
+11,French_fries,M,125
+12,Salad,M,150
+13,Pasta_salad,M,125
+14,Donut,M,150
