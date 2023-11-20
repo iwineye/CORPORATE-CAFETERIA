@@ -18,6 +18,20 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
    * QUARETERLY BALANCE STATEMENT (P/L) ANALYSIS
 6. AUTOMATED Employee spending in cafeteria and company cost report in EXCEL.
 
-   ![EER Diagram](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/37441353-47a4-4919-952d-097da5a9b9af)
+![EER Diagram](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/37441353-47a4-4919-952d-097da5a9b9af)
+
+
+  
+![Sales OverviewJPG](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/4e87b05e-9b36-478c-b5ba-ccb2ba4f63ce)
+
+
+![Sales Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/cea4aca0-7125-43e6-ac56-9c5e60ce7c22)
+
+
+![Inventory Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c1766210-ea7f-404a-9c12-c27e67f79fb0)
+
+
+![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/f0feb981-e795-4a95-b1ff-f277cbd1a63e)
+
    
 
