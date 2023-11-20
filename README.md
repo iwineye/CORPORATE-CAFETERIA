@@ -8,15 +8,15 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
 
 
 ## CONTENTS OF THE PROJECT
-([ ]) PYTHON SCRIPT to generate and save the sales data.
--[ ]2. DATABASE Design in MYSQL.
+1. PYTHON SCRIPT to generate and save the sales data.
+2. DATABASE Design in MYSQL.
 3. SQL QUERIES and analysis of data in DATABASE.
 4. Python AUTOMATION script to access and QUERY MYSQL DATABASE
 5. POWER BI DASHBOARD
    * SALES INSIGHTS
    * INVENTORY REQUIREMENTS AND PROCUREMENT COSTS
    * QUARETERLY BALANCE STATEMENT (P/L) ANALYSIS
-6. AUTOMATED Employee spending in cafeteria and company cost report in EXCEL.
+6. REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
 
 ![EER Diagram](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/37441353-47a4-4919-952d-097da5a9b9af)
 
