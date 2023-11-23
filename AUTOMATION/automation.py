@@ -1,7 +1,7 @@
 import mysql.connector
 import pandas as pd
 
-db= mysql.connector.connect(user='root', password='9Q#nS&2V%i]*',
+db= mysql.connector.connect(user='root', password='',
                                     host='127.0.0.1',
                                     database='bakery')
 mycursor=db.cursor()
