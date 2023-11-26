@@ -66,6 +66,9 @@ From the data we calculate the total sales and the procurement cost during that 
 
 ### FINAL REPORT AND RECOMMENDATIONS
 
+https://github.com/iwineye/CORPORATE-CAFETERIA/blob/main/POWER%20BI/SALES%20REPORT.pdf
+
+
 ## 6.REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
 
 The company agreed to pay upto a certain limit . It has to calculates the individual spending of each employee. An Excel report is buillt from tteh data to identofy those who have spent beyond the company limit.This is done using PIVOT TABLES and employees who are overdue are highlighted in the report.
