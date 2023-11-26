@@ -54,8 +54,9 @@ Identification of ideal products that are best performing.Classification of sale
 
 ### INVENTORY ANALYSIS
 Using stock data from database an estimation in the cost of procurement of each product in the inventory is done. Therefore we can monitor the cost of procurement at any point of time accessing the database.
+![Inventory Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/acc5476d-1688-4b5a-bc20-8857b83a1e6e)
 
-![Inventory Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/3cd0bee0-2bfb-494d-99f1-0b6319b0de2e)
+
 
 ### BALANCE STATEMENT
 
