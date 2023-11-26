@@ -54,18 +54,22 @@ Identification of ideal products that are best performing.Classification of sale
 
 ### INVENTORY ANALYSIS
 Using stock data from database an estimation in the cost of procurement of each product in the inventory is done. Therefore we can monitor the cost of procurement at any point of time accessing the database.
-![Inventory Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c1766210-ea7f-404a-9c12-c27e67f79fb0)
+
+![Inventory Analysis](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/3cd0bee0-2bfb-494d-99f1-0b6319b0de2e)
 
 ### BALANCE STATEMENT
 
 From the data we calculate the total sales and the procurement cost during that quarter and other expenses in the form of salaries to calculate final profit from the money the company owes which is refunded to the restaurent owner. 
-![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/f0feb981-e795-4a95-b1ff-f277cbd1a63e)
+![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c26093ce-d558-43fa-886c-ee7c6c961430)
+
 
 ### FINAL REPORT AND RECOMMENDATIONS
 
 ## 6.REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
 
 The company agreed to pay upto a certain limit . It has to calculates the individual spending of each employee. An Excel report is buillt from tteh data to identofy those who have spent beyond the company limit.This is done using PIVOT TABLES and employees who are overdue are highlighted in the report.
-   
+
+![REPAYEMENT](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/2f5b253c-54a3-4b9b-82ba-d7f6b751e14d)
+
 
 .
