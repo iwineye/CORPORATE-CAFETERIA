@@ -57,22 +57,28 @@ Using stock data from database an estimation in the cost of procurement of each 
 
 
 
-### BALANCE STATEMENT
+###BALANCE STATEMENT
 
 From the data we calculate the total sales and the procurement cost during that quarter and other expenses in the form of salaries to calculate final profit from the money the company owes which is refunded to the restaurent owner. 
 ![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c26093ce-d558-43fa-886c-ee7c6c961430)
 
 
-##[FINAL REPORT AND RECOMMENDATIONS](POWER BI/SALES-REPORT.pdf)
+##[FINAL REPORT AND RECOMMENDATIONS](POWER-BI/SALES-REPORT.pdf)
 
-https://github.com/iwineye/CORPORATE-CAFETERIA/blob/main/POWER-BI/SALES-REPORT.pdf
+Do check the comprehensive report above.
+
+      *Identified customer preferences in terms of gender.
+      *Recommended pricing based on sales and inventory levels
+      *Recommended introducing new items based on the sales pattern of specific items.
+
 
 
 ## 6.REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
 
-The company agreed to pay upto a certain limit . It has to calculates the individual spending of each employee. An Excel report is buillt from tteh data to identofy those who have spent beyond the company limit.This is done using PIVOT TABLES and employees who are overdue are highlighted in the report.
+The company agreed the cap for each employee a total of 1500/month or 4500/quarter. Therefore one need to calculates the individual spending of each employee. An Excel report is buillt from the data to identofy those who have spent beyond the company limit.This is done using PIVOT TABLES and employees who are overdue are highlighted in the report.
+
+For previous Quarter, management owe's the restaurent a total Rs 10,34,770.2 and the combined over limit of employees Rs1,08,246 is payed by the employees which can be deducted from the respective employee based on their Employee ID from the sheet.
 
 ![REPAYEMENT](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/2f5b253c-54a3-4b9b-82ba-d7f6b751e14d)
 
 
-.
