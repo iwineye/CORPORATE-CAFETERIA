@@ -25,7 +25,7 @@ The project  database is built according to the back end system ready for deploy
 
 ![EER Diagram](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/37441353-47a4-4919-952d-097da5a9b9af)
 
-## 3.SQL QUERIES and analysis of data in DATABASE.
+##[3.SQL QUERIES and analysis of data in DATABASE](SQL/KPI.sql)
 
 The data is then uploaded to the Database
 
@@ -35,7 +35,7 @@ Various queries are done in MYSQL such as Joining different tables and Merging
 
 Going a step further to make regular monitoring of data without hastle and to obtain basic performance metrics. A simple code in python is written to access the database and perform queries automatically with just one click.
 
-##[5.POWER BI DASHBOARD](POWER-BI/Dashboard.pptx)
+##5.[POWER BI DASHBOARD](POWER-BI/Dashboard.pptx)
 
 Once the data is imported to POWER BI DASHBOARD from the database. A comprehensive analysis of the data is done through which we are able to study the following
 
@@ -63,7 +63,7 @@ From the data we calculate the total sales and the procurement cost during that 
 ![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c26093ce-d558-43fa-886c-ee7c6c961430)
 
 
-###[FINAL REPORT AND RECOMMENDATIONS](POWER BI/SALES-REPORT.pdf)
+##[FINAL REPORT AND RECOMMENDATIONS](POWER BI/SALES-REPORT.pdf)
 
 https://github.com/iwineye/CORPORATE-CAFETERIA/blob/main/POWER-BI/SALES-REPORT.pdf
 
