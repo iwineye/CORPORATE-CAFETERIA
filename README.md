@@ -8,18 +8,16 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
 ![Alt text](<WORK FLOW.PNG>)
 
 ## CONTENTS OF THE PROJECT
--[PYTHON SCRIPT to generate and save the sales data](PYTHON SCRIPT TO GENERATE SALES DATA)
-- DATABASE Design in MYSQL.
-3. SQL QUERIES and analysis of data in DATABASE.
-4. Python AUTOMATION script to access and QUERY MYSQL DATABASE
-5. POWER BI DASHBOARD
-   * SALES INSIGHTS
-   * INVENTORY REQUIREMENTS AND PROCUREMENT COSTS
-   * QUARETERLY BALANCE STATEMENT (P/L) ANALYSIS
+-[PYTHON SCRIPT to generate and save the sales data](#1.PYTHON-SCRIPT-TO-GENERATE-SALES-DATA)
+-[DATABASE Design in MYSQL](#2-database-design-in-mysql)
+-[SQL QUERIES and analysis of data in DATABASE](#3sql-queries-and-analysis-of-data-in-database)
+-[Python AUTOMATION script to access and QUERY MYSQL DATABASE](#4python-automation-script-to-access-and-query-mysql-database).
+-[POWER BI DASHBOARD](#5power-bi-dashboard)
+-[REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES](#6report-of-employee-spending-in-cafeteria-and-cost-to-company-report-in-excel-using-pivot-tables) 
 6. REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
 
 
-##PYTHON SCRIPT TO GENERATE SALES DATA
+## .PYTHON SCRIPT TO GENERATE SALES DATA
 A Clean code that can generate any number of rows of data between any given period of time is used to create the sales data for this project.
 Here we used this to generate three months of sales data.A Randomised data gives unpredictable results and room for different interpretations analysed everytime.
 
@@ -43,6 +41,9 @@ Going a step further to make regular monitoring of data without hastle and to ob
 
 Once the data is imported to POWER BI DASHBOARD from the database. A comprehensive analysis of the data is done through which we are able to study the following
 
+   * SALES INSIGHTS
+   * INVENTORY REQUIREMENTS AND PROCUREMENT COSTS
+   * QUARETERLY BALANCE STATEMENT (P/L) ANALYSIS
 ### SALES OVERVIEW 
 
 A complete outline picturing of the entire sales  obtained from orders data.
