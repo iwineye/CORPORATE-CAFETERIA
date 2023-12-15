@@ -31,7 +31,7 @@ The data is then uploaded to the Database
 
 Various queries are done in MYSQL such as Joining different tables and Merging
 
-## 4.Python AUTOMATION script to access and QUERY MYSQL DATABASE
+## 4.[Python AUTOMATION script to access and QUERY MYSQL DATABASE](AUTOMATION/KPI_Generator.py)
 
 Going a step further to make regular monitoring of data without hastle and to obtain basic performance metrics. A simple code in python is written to access the database and perform queries automatically with just one click.
 
