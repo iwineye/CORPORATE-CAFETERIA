@@ -8,7 +8,7 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
 ![Alt text](<WORK FLOW.PNG>)
 
 ## CONTENTS OF THE PROJECT
--[PYTHON SCRIPT TO GENERATE SALES DATA](#1.PYTHON-SCRIPT-TO-GENERATE-SALES-DATA)
+*[PYTHON SCRIPT TO GENERATE SALES DATA](#1.PYTHON-SCRIPT-TO-GENERATE-SALES-DATA)
 -[DATABASE Design in MYSQL](#2-database-design-in-mysql)
 -[SQL QUERIES and analysis of data in DATABASE](#3sql-queries-and-analysis-of-data-in-database)
 -[Python AUTOMATION script to access and QUERY MYSQL DATABASE](#4python-automation-script-to-access-and-query-mysql-database).
