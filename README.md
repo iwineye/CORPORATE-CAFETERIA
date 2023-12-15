@@ -9,7 +9,7 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
 
 ## CONTENTS OF THE PROJECT
 -[PYTHON SCRIPT to generate and save the sales data](1.PYTHON SCRIPT TO GENERATE SALES DATA)
-2. DATABASE Design in MYSQL.
+- DATABASE Design in MYSQL.
 3. SQL QUERIES and analysis of data in DATABASE.
 4. Python AUTOMATION script to access and QUERY MYSQL DATABASE
 5. POWER BI DASHBOARD
