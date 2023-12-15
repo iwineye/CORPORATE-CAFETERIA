@@ -19,7 +19,7 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
 A Clean code that can generate any number of rows of data between any given period of time is used to create the sales data for this project.
 Here we used this to generate three months of sales data.A Randomised data gives unpredictable results and room for different interpretations analysed everytime.
 
-## 2. DATABASE Design in MYSQL
+##[2.DATABASE Design in MYSQL](SQL/SQL-QUERIES.sql)
 
 The project  database is built according to the back end system ready for deployment. The entire database is built according to the following ER DIAGRAM
 
@@ -31,11 +31,11 @@ The data is then uploaded to the Database
 
 Various queries are done in MYSQL such as Joining different tables and Merging
 
-## 4.[Python AUTOMATION script to access and QUERY MYSQL DATABASE](AUTOMATION/KPI_Generator.py)
+##[4.Python AUTOMATION script to access and QUERY MYSQL DATABASE](AUTOMATION/KPI_Generator.py)
 
 Going a step further to make regular monitoring of data without hastle and to obtain basic performance metrics. A simple code in python is written to access the database and perform queries automatically with just one click.
 
-## 5.POWER BI DASHBOARD
+##[5.POWER BI DASHBOARD](POWER-BI/Dashboard.pptx)
 
 Once the data is imported to POWER BI DASHBOARD from the database. A comprehensive analysis of the data is done through which we are able to study the following
 
@@ -63,9 +63,9 @@ From the data we calculate the total sales and the procurement cost during that 
 ![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c26093ce-d558-43fa-886c-ee7c6c961430)
 
 
-### FINAL REPORT AND RECOMMENDATIONS
+###[FINAL REPORT AND RECOMMENDATIONS](POWER BI/SALES-REPORT.pdf)
 
-https://github.com/iwineye/CORPORATE-CAFETERIA/blob/main/POWER%20BI/SALES%20REPORT.pdf
+https://github.com/iwineye/CORPORATE-CAFETERIA/blob/main/POWER-BI/SALES-REPORT.pdf
 
 
 ## 6.REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES.
