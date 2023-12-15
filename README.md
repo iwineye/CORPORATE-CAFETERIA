@@ -57,7 +57,7 @@ Using stock data from database an estimation in the cost of procurement of each 
 
 
 
-###BALANCE STATEMENT
+##BALANCE STATEMENT
 
 From the data we calculate the total sales and the procurement cost during that quarter and other expenses in the form of salaries to calculate final profit from the money the company owes which is refunded to the restaurent owner. 
 ![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c26093ce-d558-43fa-886c-ee7c6c961430)
