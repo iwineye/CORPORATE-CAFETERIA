@@ -8,12 +8,12 @@ Each purchase of the employee is tracked using their Employee ID which is reflec
 ![Alt text](<WORK FLOW.PNG>)
 
 ## CONTENTS OF THE PROJECT
--[PYTHON SCRIPT TO GENERATE SALES DATA](PYTHON-SCRIPT-TO-GENERATE-SALES-DATA)
--[DATABASE Design in MYSQL](#2database-design-in-mysql)
--[SQL QUERIES and analysis of data in DATABASE](#3sql-queries-and-analysis-of-data-in-database)
--[Python AUTOMATION script to access and QUERY MYSQL DATABASE](#4python-automation-script-to-access-and-query-mysql-database).
--[POWER BI DASHBOARD](#5power-bi-dashboard)
--[REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES](#6report-of-employee-spending-in-cafeteria-and-cost-to-company-report-in-excel-using-pivot-tables) 
+1. [PYTHON SCRIPT TO GENERATE SALES DATA](PYTHON-SCRIPT-TO-GENERATE-SALES-DATA)
+2. [DATABASE Design in MYSQL](#2database-design-in-mysql)
+3. [SQL QUERIES and analysis of data in DATABASE](#3sql-queries-and-analysis-of-data-in-database)
+4. [Python AUTOMATION script to access and QUERY MYSQL DATABASE](#4python-automation-script-to-access-and-query-mysql-database).
+5. [POWER BI DASHBOARD](#5power-bi-dashboard)
+6. [REPORT of employee spending in cafeteria and cost to company report in EXCEL using PIVOT TABLES](#6report-of-employee-spending-in-cafeteria-and-cost-to-company-report-in-excel-using-pivot-tables) 
 
 ### 1.PYTHON SCRIPT TO GENERATE SALES DATA
 A Clean code that can generate any number of rows of data between any given period of time is used to create the sales data for this project.
@@ -63,13 +63,13 @@ From the data we calculate the total sales and the procurement cost during that 
 ![Quarterly Balance Sheet](https://github.com/iwineye/CORPORATE-CAFETERIA/assets/96835772/c26093ce-d558-43fa-886c-ee7c6c961430)
 
 
-##[FINAL REPORT AND RECOMMENDATIONS](POWER-BI/SALES-REPORT.pdf)
+## [FINAL REPORT AND RECOMMENDATIONS](POWER-BI/SALES-REPORT.pdf)
 
 Do check the comprehensive report above.
 
-      *Identified customer preferences in terms of gender.
-      *Recommended pricing based on sales and inventory levels
-      *Recommended introducing new items based on the sales pattern of specific items.
+*Identified customer preferences in terms of gender.  
+*Recommended pricing based on sales and inventory levels
+*Recommended introducing new items based on the sales pattern of specific items.
 
 
 
