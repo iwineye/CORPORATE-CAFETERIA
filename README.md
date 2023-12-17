@@ -67,9 +67,9 @@ From the data we calculate the total sales and the procurement cost during that 
 
 Do check the comprehensive report above.
 
-*Identified customer preferences in terms of gender.  
-*Recommended pricing based on sales and inventory levels
-*Recommended introducing new items based on the sales pattern of specific items.
+* Identified customer preferences in terms of gender.  
+* Recommended pricing based on sales and inventory levels
+* Recommended introducing new items based on the sales pattern of specific items.
 
 
 
